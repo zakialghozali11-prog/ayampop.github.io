@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Ayam Pop">
+  <title>Ayam Pop</title>
+
+  <!-- Lingkaran emerald + ring kuningan -->
+  <circle cx="60" cy="60" r="58" fill="#1f3a34"/>
+  <circle cx="60" cy="60" r="58" fill="none" stroke="#b08d4f" stroke-width="3"/>
+
+  <!-- Paha ayam (drumstick) -->
+  <g fill="#c9a86a">
+    <!-- Tulang -->
+    <line x1="70" y1="52" x2="88" y2="32" stroke="#c9a86a" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="90" cy="24" r="6.5"/>
+    <circle cx="98" cy="34" r="6.5"/>
+
+    <!-- Daging paha -->
+    <path d="M 28 80
+             C 22 62, 28 44, 44 40
+             C 58 36, 70 42, 72 54
+             C 74 66, 68 78, 58 86
+             C 48 94, 34 92, 28 80 Z"/>
+  </g>
+</svg>
